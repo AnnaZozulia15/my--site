@@ -1,0 +1,7 @@
+<html>
+<head>
+</head>
+<body>
+Моя перша сторінка    
+</body>
+</html>
